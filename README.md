@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @creativeabhi13@abhishek kumar
-- 👀 I’m interested in ...webdesvlopment and blockchain technologyy.
+- 👀 I’m interested in ...webdevlopment and blockchain technologyy.
 - 🌱 I’m currently learning web devlopment .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
