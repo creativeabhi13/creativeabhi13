@@ -9,20 +9,17 @@ I love web development and blockchain technology and also have interest in softw
 creativeabhi13/creativeabhi13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](https://user-images.githubusercontent.com/76790667/153556870-d112a6b3-efaf-4767-95d5-b826b89dff77.png)
 
-![image](https://user-images.githubusercontent.com/76790667/153556895-9cc892d4-ee7a-4247-860e-e78468c30ae4.png)
-
-![image](https://user-images.githubusercontent.com/76790667/153556941-320b6ee0-504c-498c-8efb-f62069e9384a.png)
-
-![image](https://user-images.githubusercontent.com/76790667/153556960-fea5adeb-7157-4350-a756-24b61d7ac67c.png)
-
-![image](https://user-images.githubusercontent.com/76790667/153556993-c0198bbc-41b8-4a8c-a8c7-7a0beb69c3e4.png)
+![icons8-linkedin-64](https://user-images.githubusercontent.com/76790667/156628901-c164fd8f-1bf3-49ae-9014-c5444da38449.png)
+![icons8-facebook-48](https://user-images.githubusercontent.com/76790667/156628943-9117a25a-aa5c-49d0-b90c-0930975b7afe.png)
+![icons8-twitter-48](https://user-images.githubusercontent.com/76790667/156628956-9c5c5f2a-9969-4c89-a94f-f3bfbf081e6d.png)
 
 
-![image](https://user-images.githubusercontent.com/76790667/153557287-209ce120-c8fc-4e15-8e3a-67f5d5ab7d92.png)
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][2]
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][3]
 
-[1]: http://www.github.com/creativeabhi13
-[2]: https://www.linkedin.com/in/creativeabhi13/
-[3]: https://www.facebook.com/creativeabhi13/
-[4]: https://twitter.com/creativeabhi13
+[1]:  https://www.linkedin.com/in/creativeabhi13/
+[2]:  https://www.facebook.com/creativeabhi13/
+[3]:  https://twitter.com/creativeabhi13
+
