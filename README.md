@@ -10,14 +10,13 @@ creativeabhi13/creativeabhi13 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-![icons8-linkedin-64](https://user-images.githubusercontent.com/76790667/156628901-c164fd8f-1bf3-49ae-9014-c5444da38449.png)
-![icons8-facebook-48](https://user-images.githubusercontent.com/76790667/156628943-9117a25a-aa5c-49d0-b90c-0930975b7afe.png)
-![icons8-twitter-48](https://user-images.githubusercontent.com/76790667/156628956-9c5c5f2a-9969-4c89-a94f-f3bfbf081e6d.png)
 
 
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][2]
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][3]
+
+
+[![github]![icons8-linkedin-64](https://user-images.githubusercontent.com/76790667/156628901-c164fd8f-1bf3-49ae-9014-c5444da38449.png)[1]
+[![github]![icons8-facebook-48](https://user-images.githubusercontent.com/76790667/156628943-9117a25a-aa5c-49d0-b90c-0930975b7afe.png)][2]
+[![github]![icons8-twitter-48](https://user-images.githubusercontent.com/76790667/156628956-9c5c5f2a-9969-4c89-a94f-f3bfbf081e6d.png)[3]
 
 [1]:  https://www.linkedin.com/in/creativeabhi13/
 [2]:  https://www.facebook.com/creativeabhi13/
