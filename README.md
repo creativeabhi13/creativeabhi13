@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **https://compiled.social/creativeabhi13**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YuHgGQME67j3GlOeYq8aTm28PCTR_nYC/view](https://drive.google.com/file/d/1YuHgGQME67j3GlOeYq8aTm28PCTR_nYC/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mfKyLurP5i2YSfT7VklH0oIpjRhtue-k/view?usp=sharing](https://drive.google.com/file/d/1mfKyLurP5i2YSfT7VklH0oIpjRhtue-k/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
