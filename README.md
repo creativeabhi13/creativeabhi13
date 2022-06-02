@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **J.C. Innovations**
 
-- 🌱 I’m currently learning **Reactjs,Nodejs**
+- 🌱 I’m currently learning **AR,VR,C# and Content Creator foro XR-Technology**
 
 - 👯 I’m looking to collaborate on **Creativeabhi13**
 
