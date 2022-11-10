@@ -1,4 +1,4 @@
-[![MasterHead](https://indieseducation.b-cdn.net/wp-content/uploads/2020/05/Full-stack-1.jpg)](https://https://creativeabhi13.github.io/)
+[![MasterHead](https://indieseducation.b-cdn.net/wp-content/uploads/2020/05/Full-stack-1.jpg](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png))](https://https://creativeabhi13.github.io/)
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
