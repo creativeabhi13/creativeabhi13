@@ -1,5 +1,5 @@
 
-[![MasterHead](https://indieseducation.b-cdn.net/wp-content/uploads/2020/05/Full-stack-1.jpg)](https://https://creativeabhi13.github.io/)
+[![MasterHead](https://static.javatpoint.com/blog/images/how-to-be-a-full-stack-developer.png)](https://https://creativeabhi13.github.io/)
 
 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
